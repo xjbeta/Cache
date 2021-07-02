@@ -699,11 +699,11 @@
 			};
 			buildConfigurationList = D5DC59DA1C20593E003BD79B /* Build configuration list for PBXProject "Cache" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = D5DC59D61C20593E003BD79B;
 			productRefGroup = D5DC59E11C20593E003BD79B /* Products */;
